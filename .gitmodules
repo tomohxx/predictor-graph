@@ -1,0 +1,3 @@
+[submodule "predictor/predictor"]
+	path = predictor/predictor
+	url = https://github.com/tomohxx/predictor.git
